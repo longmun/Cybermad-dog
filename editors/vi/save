@@ -1,0 +1,1 @@
+""" To save the content of a file in vi editor, use the esc key to enter command mode then write the command ':w' to save 
